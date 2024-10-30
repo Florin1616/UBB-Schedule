@@ -1,7 +1,7 @@
 # UBB-Schedule
 # Schedule App
 
-![App Logo](link_to_your_logo)  <!-- Optional: Add a logo or screenshot -->
+
 
 ## Table of Contents
 - [Introduction](#introduction)
