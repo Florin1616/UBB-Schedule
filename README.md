@@ -16,6 +16,9 @@
 
 ## Introduction
 The Schedule App is a collaborative tool designed to help users manage their time effectively. Built by a team of four friends, this app allows users to create, edit, and share schedules seamlessly.
+![Frame 1](https://github.com/user-attachments/assets/9305656b-699a-424d-a7b6-b42dc4ddd491)
+![Frame 2](https://github.com/user-attachments/assets/01842a5c-c0d8-4767-b895-3a03c28a64c4)
+
 
 ## Features
 - **User -Friendly Interface**: Intuitive design for easy navigation.
