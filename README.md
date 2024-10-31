@@ -35,6 +35,7 @@ To install the Schedule App, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/schedule-app.git
+![Component 2](https://github.com/user-attachments/assets/fae3ecbf-07c0-4cdf-810c-54e05292eee6)
 
 
 ## Tech Stack
@@ -46,6 +47,6 @@ To install the Schedule App, follow these steps:
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/405cac4a-3697-4d46-b9ea-1d8bfcf4c533" width = "300">
+  <img src="https://github.com/user-attachments/assets/fae3ecbf-07c0-4cdf-810c-54e05292eee6" width = "300">
   <img src="https://github.com/user-attachments/assets/db9db5ce-e0fd-4284-826d-256c58694ca2" width = "300">
 </p>
