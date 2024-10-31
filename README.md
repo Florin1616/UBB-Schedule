@@ -1,5 +1,5 @@
 # Schedule App
-_A powerful tool to keep you organized and on track. Plan, collaborate, and never miss a beat._
+_A simple app to help you organize your academic schedule, track exams, and manage your time effectively._
 
 ![unnamed](https://github.com/user-attachments/assets/2561eacc-273d-4958-b08b-6ec82a1b64bf)
 
@@ -13,7 +13,7 @@ _A powerful tool to keep you organized and on track. Plan, collaborate, and neve
 
 ## Introduction
 
-The Schedule App is a collaborative tool designed to help users manage their time effectively. Built by a team of four friends, this app allows users to create, edit, and share schedules seamlessly.
+The Schedule App is a user-friendly tool designed for students by students to manage their academic schedules effectively. Created by a team of four friends, this app lets users customize their schedules based on their specialization, year, group, and semigroup. With features like exam tracking, location integration, and customizable themes, it helps students stay organized and focused on their studies.
 
 ## Features
 
