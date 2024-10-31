@@ -48,7 +48,7 @@ To install the Schedule App, follow these steps:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/username1">
+      <a href="https://github.com/Obis-Luca">
         <img src="https://github.com/username1.png" width="100px;" alt="Profile Picture"/><br />
         <sub><b>Contributor Name 1</b></sub>
       </a>
@@ -56,7 +56,7 @@ To install the Schedule App, follow these steps:
       Role (e.g., Frontend Developer)
     </td>
     <td align="center">
-      <a href="https://github.com/username2">
+      <a href="https://github.com/BogdanMitrea">
         <img src="https://github.com/username2.png" width="100px;" alt="Profile Picture"/><br />
         <sub><b>Contributor Name 2</b></sub>
       </a>
@@ -64,7 +64,7 @@ To install the Schedule App, follow these steps:
       Role (e.g., Backend Developer)
     </td>
     <td align="center">
-      <a href="https://github.com/username3">
+      <a href="https://github.com/matei2804">
         <img src="https://github.com/username3.png" width="100px;" alt="Profile Picture"/><br />
         <sub><b>Contributor Name 3</b></sub>
       </a>
@@ -72,7 +72,7 @@ To install the Schedule App, follow these steps:
       Role (e.g., UI/UX Designer)
     </td>
     <td align="center">
-      <a href="https://github.com/username4">
+      <a href="https://github.com/Florin1616">
         <img src="https://github.com/username4.png" width="100px;" alt="Profile Picture"/><br />
         <sub><b>Contributor Name 4</b></sub>
       </a>
