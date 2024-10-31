@@ -44,3 +44,6 @@ To install the Schedule App, follow these steps:
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="100" />
 </p>
 
+
+
+![GetItOnGooglePlay_Badge_Web_color_English](https://github.com/user-attachments/assets/7b1daae9-30f5-4d24-8819-fc9b5618417d)
