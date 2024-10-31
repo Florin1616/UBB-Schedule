@@ -23,6 +23,7 @@ The Schedule App is a collaborative tool designed to help users manage their tim
 ## Screenshots
 
 ![Frame 1 (1)](https://github.com/user-attachments/assets/9f79b859-1213-4ca2-b1e8-0528ddb8a47a)
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________
 ![Frame 3](https://github.com/user-attachments/assets/0a6142f6-5ccf-48dc-9afb-e5b1aece60a1)
 
 ## Tech Stack
