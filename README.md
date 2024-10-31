@@ -49,32 +49,32 @@ To install the Schedule App, follow these steps:
   <tr>
     <td align="center">
       <a href="https://github.com/Obis-Luca">
-        <img src="https://github.com/username1.png" width="100px;" alt="Profile Picture"/><br />
-        <sub><b>Contributor Name 1</b></sub>
+        <img src="https://github.com/Obis-Luca.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Obis Luca</b></sub>
       </a>
       <br />
       Role (e.g., Frontend Developer)
     </td>
     <td align="center">
       <a href="https://github.com/BogdanMitrea">
-        <img src="https://github.com/username2.png" width="100px;" alt="Profile Picture"/><br />
-        <sub><b>Contributor Name 2</b></sub>
+        <img src="https://github.com/BogdanMitrea.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Mitrea Bogdan</b></sub>
       </a>
       <br />
       Role (e.g., Backend Developer)
     </td>
     <td align="center">
       <a href="https://github.com/matei2804">
-        <img src="https://github.com/username3.png" width="100px;" alt="Profile Picture"/><br />
-        <sub><b>Contributor Name 3</b></sub>
+        <img src="https://github.com/matei2804.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Mihai Matei</b></sub>
       </a>
       <br />
       Role (e.g., UI/UX Designer)
     </td>
     <td align="center">
       <a href="https://github.com/Florin1616">
-        <img src="https://github.com/username4.png" width="100px;" alt="Profile Picture"/><br />
-        <sub><b>Contributor Name 4</b></sub>
+        <img src="https://github.com/Florin1616.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Olariu Florin</b></sub>
       </a>
       <br />
       Role (e.g., Project Manager)
