@@ -5,21 +5,12 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 - [Tech Stack](#techstack)
-- [Acknowledgments](#acknowledgments)
+- [Contributors](#contributing)
 
 ## Introduction
 The Schedule App is a collaborative tool designed to help users manage their time effectively. Built by a team of four friends, this app allows users to create, edit, and share schedules seamlessly.
-
-![Frame 1 (1)](https://github.com/user-attachments/assets/9f79b859-1213-4ca2-b1e8-0528ddb8a47a)
-![Frame 3](https://github.com/user-attachments/assets/0a6142f6-5ccf-48dc-9afb-e5b1aece60a1)
-
 
 ## Features
 - **User -Friendly Interface**: Intuitive design for easy navigation.
@@ -28,13 +19,9 @@ The Schedule App is a collaborative tool designed to help users manage their tim
 - **Customizable Views**: Switch between daily, weekly, and monthly views.
 - **Integration**: Sync with Google Calendar and other platforms.
 
-## Installation
-To install the Schedule App, follow these steps:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/schedule-app.git
-![Component 2](https://github.com/user-attachments/assets/fae3ecbf-07c0-4cdf-810c-54e05292eee6)
-
+## Screenshots
+![Frame 1 (1)](https://github.com/user-attachments/assets/9f79b859-1213-4ca2-b1e8-0528ddb8a47a)
+![Frame 3](https://github.com/user-attachments/assets/0a6142f6-5ccf-48dc-9afb-e5b1aece60a1)
 
 ## Tech Stack
 <p float="left">
@@ -44,7 +31,6 @@ To install the Schedule App, follow these steps:
 </p>
 
 ## Contributors
-
 <table>
   <tr>
     <td align="center">
