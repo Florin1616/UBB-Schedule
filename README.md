@@ -37,7 +37,7 @@ The Schedule App is a user-friendly tool designed for students by students to ma
 
 ![Frame 1 (1)](https://github.com/user-attachments/assets/9f79b859-1213-4ca2-b1e8-0528ddb8a47a)
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-![Frame 3](https://github.com/user-attachments/assets/0a6142f6-5ccf-48dc-9afb-e5b1aece60a1)
+![Frame 3](https://github.com/user-attachments/assets/b530e511-3993-4178-bc13-729b66876126)
 
 ## Tech Stack
 
