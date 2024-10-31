@@ -16,11 +16,22 @@ _A powerful tool to keep you organized and on track. Plan, collaborate, and neve
 The Schedule App is a collaborative tool designed to help users manage their time effectively. Built by a team of four friends, this app allows users to create, edit, and share schedules seamlessly.
 
 ## Features
-- **User -Friendly Interface**: Intuitive design for easy navigation.
-- **Real-Time Collaboration**: Work with friends or colleagues in real-time.
-- **Notifications**: Get reminders for upcoming events.
-- **Customizable Views**: Switch between daily, weekly, and monthly views.
-- **Integration**: Sync with Google Calendar and other platforms.
+
+- **Customizable Schedule**: Select your schedule based on specialization, year, group, and semigroup.
+  
+- **Weekly Overview**: View all courses, seminars, and laboratories for the current week on the main page.
+
+- **Professor Information**: See the names of professors for each class, enhancing communication and engagement.
+
+- **Location Integration**: Click on the location to open Google Maps and find the classroom easily.
+
+- **Exam Tracker**: Add future exams with details including time and location to stay organized.
+
+- **Settings Customization**: Personalize your app experience with options for:
+  - Different colors for lectures, seminars, and labs.
+  - Light and dark themes for visual comfort.
+  - Four languages for foreign students: Romanian, English, Spanish, and French.
+
 
 ## Screenshots
 
