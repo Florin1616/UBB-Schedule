@@ -13,6 +13,7 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Tech Stack](#techstack)
 - [Acknowledgments](#acknowledgments)
 
 ## Introduction
@@ -36,6 +37,6 @@ To install the Schedule App, follow these steps:
    git clone https://github.com/yourusername/schedule-app.git
 
 
-##Tech Stack
+## Tech Stack
 https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png
 
