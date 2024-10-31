@@ -46,4 +46,6 @@ To install the Schedule App, follow these steps:
 
 
 
-![GetItOnGooglePlay_Badge_Web_color_English](https://github.com/user-attachments/assets/7b1daae9-30f5-4d24-8819-fc9b5618417d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f18886af-92b2-4221-a303-6729ff23021f" alt="app-store-google-play-seeklogo">
+</p>
