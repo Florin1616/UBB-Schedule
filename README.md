@@ -43,6 +43,47 @@ To install the Schedule App, follow these steps:
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="100" />
 </p>
 
+## Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/username1">
+        <img src="https://github.com/username1.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Contributor Name 1</b></sub>
+      </a>
+      <br />
+      Role (e.g., Frontend Developer)
+    </td>
+    <td align="center">
+      <a href="https://github.com/username2">
+        <img src="https://github.com/username2.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Contributor Name 2</b></sub>
+      </a>
+      <br />
+      Role (e.g., Backend Developer)
+    </td>
+    <td align="center">
+      <a href="https://github.com/username3">
+        <img src="https://github.com/username3.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Contributor Name 3</b></sub>
+      </a>
+      <br />
+      Role (e.g., UI/UX Designer)
+    </td>
+    <td align="center">
+      <a href="https://github.com/username4">
+        <img src="https://github.com/username4.png" width="100px;" alt="Profile Picture"/><br />
+        <sub><b>Contributor Name 4</b></sub>
+      </a>
+      <br />
+      Role (e.g., Project Manager)
+    </td>
+  </tr>
+</table>
+
+
+
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">Download the app now!</p>
 <p align="center">
