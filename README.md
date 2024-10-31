@@ -45,8 +45,9 @@ To install the Schedule App, follow these steps:
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="100" />
 </p>
 
+![Component 2 (1)](https://github.com/user-attachments/assets/309ad04d-a06b-4ac5-bcaa-3091a194bbca)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fae3ecbf-07c0-4cdf-810c-54e05292eee6" width = "300">
+  <img src="https://github.com/user-attachments/assets/309ad04d-a06b-4ac5-bcaa-3091a194bbca" width = "300">
   <img src="https://github.com/user-attachments/assets/db9db5ce-e0fd-4284-826d-256c58694ca2" width = "300">
 </p>
