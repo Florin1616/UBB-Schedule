@@ -46,7 +46,7 @@ To install the Schedule App, follow these steps:
 </p>
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-<p align="center">DOWNLOAD THE APP</p>
+<p align="center">Download the app now!</p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/0053f7e7-f36b-4813-bf76-024cbb4cbed1" width = "300">
   <img src="https://github.com/user-attachments/assets/71922aac-6d34-433d-a747-75d2e23f0722" width = "300">
