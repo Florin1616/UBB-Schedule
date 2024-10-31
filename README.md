@@ -2,7 +2,7 @@
 ![unnamed](https://github.com/user-attachments/assets/2561eacc-273d-4958-b08b-6ec82a1b64bf)
 
 
-## Table of Contents
+## Quick Navigation
 - [Introduction](#introduction)
 - [Features](#features)
 - [Screenshots](#screenshots)
