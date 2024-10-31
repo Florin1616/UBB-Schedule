@@ -59,7 +59,6 @@ ________________________________________________________________________________
         <sub><b>Obis Luca</b></sub>
       </a>
       <br />
-      Role (e.g., Frontend Developer)
     </td>
     <td align="center">
       <a href="https://github.com/BogdanMitrea">
@@ -67,7 +66,6 @@ ________________________________________________________________________________
         <sub><b>Mitrea Bogdan</b></sub>
       </a>
       <br />
-      Role (e.g., Backend Developer)
     </td>
     <td align="center">
       <a href="https://github.com/matei2804">
@@ -75,7 +73,6 @@ ________________________________________________________________________________
         <sub><b>Mihai Matei</b></sub>
       </a>
       <br />
-      Role (e.g., UI/UX Designer)
     </td>
     <td align="center">
       <a href="https://github.com/Florin1616">
