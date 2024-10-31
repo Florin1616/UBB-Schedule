@@ -75,9 +75,14 @@ The Schedule App is a collaborative tool designed to help users manage their tim
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-<p align="center">Download the app now!</p>
+## Download the app now!
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0053f7e7-f36b-4813-bf76-024cbb4cbed1" width = "300">
-  <img src="https://github.com/user-attachments/assets/71922aac-6d34-433d-a747-75d2e23f0722" width = "300">
+  <a href="https://apps.apple.com/your-app-link">
+    <img src="https://github.com/user-attachments/assets/0053f7e7-f36b-4813-bf76-024cbb4cbed1" width="300" alt="Download on the App Store">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.ubb.schedule">
+    <img src="https://github.com/user-attachments/assets/71922aac-6d34-433d-a747-75d2e23f0722" width="300" alt="Get it on Google Play">
+  </a>
 </p>
 
