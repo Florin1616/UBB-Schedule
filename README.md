@@ -1,5 +1,6 @@
 # Schedule App
 _A powerful tool to keep you organized and on track. Plan, collaborate, and never miss a beat._
+
 ![unnamed](https://github.com/user-attachments/assets/2561eacc-273d-4958-b08b-6ec82a1b64bf)
 
 
