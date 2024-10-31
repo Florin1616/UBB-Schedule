@@ -47,5 +47,5 @@ To install the Schedule App, follow these steps:
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f18886af-92b2-4221-a303-6729ff23021f" alt="app-store-google-play-seeklogo">
+  <img src="https://github.com/user-attachments/assets/f18886af-92b2-4221-a303-6729ff23021f" alt="app-store-google-play-seeklogo" width = "300">
 </p>
